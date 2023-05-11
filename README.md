@@ -1,2 +1,2 @@
-# animepisode
-Watch Anime For Free
+# Animepisode
+Watch Anime For Free with HD Resolution 
