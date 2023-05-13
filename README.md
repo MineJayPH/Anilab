@@ -1,2 +1,6 @@
 # Animepisode
-Watch Anime For Free with HD Resolution 
+Watch The Latest Subbed and Dubbed Anime 
+
+
+
+
