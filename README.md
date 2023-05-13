@@ -1,5 +1,5 @@
 # Animepisode
-Watch The Latest Subbed and Dubbed Anime 
+Watch The Latest English Dubbed and Subbed Anime 
 
 
 
