@@ -6,7 +6,7 @@ Welcome to the Animepisode repository! This repository contains app of your favo
 
 To download the app, simply click the button below:
 
-[![Download Episodes](https://img.shields.io/badge/Download-Episodes-blue)](https://github.com/MineJayPH/Animepisode/releases/download/update/animepisode-v2-0-3.apk)
+[![Download App](https://img.shields.io/badge/Download-Episodes-blue)](https://github.com/MineJayPH/Animepisode/releases/download/update/animepisode-v2-0-3.apk)
 
 Clicking the button above will initiate the download of the application.
 
