@@ -1,14 +1,14 @@
 # Animepisode Repository
 
-Welcome to the Animepisode repository! This repository contains episodes of your favorite anime shows.
+Welcome to the Animepisode repository! This repository contains app of your favorite anime shows.
 
 ## Download Episodes
 
-To download episodes, simply click the button below:
+To download the app, simply click the button below:
 
 [![Download Episodes](https://img.shields.io/badge/Download-Episodes-blue)](https://github.com/MineJayPH/Animepisode/releases/download/update/animepisode-v2-0-3.apk)
 
-Clicking the button above will initiate the download of the episodes.
+Clicking the button above will initiate the download of the application.
 
 ## Contributing
 
