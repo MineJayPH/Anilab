@@ -1,14 +1,6 @@
-# Animepisode Repository
+# Anilab Repository
 
-Welcome to the Animepisode repository! This repository contains app of your favorite anime shows.
-
-## Download Episodes
-
-To download the app, simply click the button below:
-
-[![Download App](https://img.shields.io/badge/Download-Episodes-blue)](https://github.com/MineJayPH/Animepisode/releases/download/anime/animepisode.apk)
-
-Clicking the button above will initiate the download of the application.
+Welcome to the Anilab repository! This repository contains app of your favorite anime shows.
 
 ## Contributing
 
