@@ -4,7 +4,7 @@ Anilab is an open-source app for streaming anime, designed to provide a seamless
 
 ## Features
 
-Wide Anime Library: Access a large collection of anime across different genres. Advanced Search: Find your favorite shows easily by title, genre, or release year. High-Quality Streaming: Enjoy anime in HD with smooth playback. Latest Releases: Stay up-to-date with new episodes and ongoing shows. User-friendly Interface: Easy navigation with a modern and minimal design. Watchlist: Save your favorite anime for later viewing. Multiple Languages: Available with subtitles in different languages.
+Access a large collection of anime across different genres. Find your favorite shows easily by title, genre, or release year. Enjoy anime in HD with smooth playback. Stay up-to-date with new episodes and ongoing shows. Easy navigation with a modern and minimal design. Save your favorite anime for later viewing. Available with subtitles in different languages.
 
 ## Contributing
 
